@@ -1,0 +1,376 @@
+,Common Ground,Label,Transcript,Group
+0,red = 10,1,And tell red cube top ten grams,1
+1,red = 10,1,red block would nine minus ten,1
+2,blue = red,1,"red block , blue block seems pretty balanced",1
+3,blue = 10,1,blue block also ten,1
+6,green = 20,1,green block one probably twenty ten ten twenty,1
+7,"blue = 10, green = 20, red = 10",1,green block one probably twenty ten ten twenty,1
+10,"blue = 10, green = 20, purple = 30, red = 10",1,"im thinking red block , blue block , green block , yellow block , purple block 's ten ten twenty thirty",1
+12,yellow = 50,1,fifty yellow fifty,1
+13,red = 10,1,And tell red cube right ten grams yep 're going 're going flip piece paper um,2
+14,blue = red,1,"needle goes red line means red block , blue block 're probably equal",2
+15,blue = 10,1,blue block one probably ten grams,2
+19,green = 20,1,knowing oh sorry green one,2
+21,purple = 30,1,'s increment five could probably go thirty purple block,2
+23,"green = 20, purple = 30",1,"purple block , green block 's twenty thirty",2
+27,red = 10,1,We tell weight red cube ten grams,3
+28,blue = red,1,"red block , blue block 're weight",3
+29,green = 20,1,sufficient green block one 's probably twenty,3
+30,purple = 30,1,purple one thirty,3
+31,"green = 20, purple = 30, yellow = 50",1,green twenty purple thirty yellow block weighs fifty,3
+32,green = 20,1,mentioned green twenty,3
+35,yellow != 10,1,yellow course ten,3
+37,yellow = 50,1,feel yellow fifty,3
+38,yellow != 30,1,yellow block 's sure thirty,3
+41,red = 10,1,I tell red cube ten grams,4
+46,purple != 20,1,purple block 's purple block 's twenty purple block 's got ta thirty,4
+47,purple = 30,1,purple block 's purple block 's twenty purple block 's got ta thirty,4
+49,blue = 10,1,blue ten,4
+50,yellow = 50,1,would yellow fifty,4
+51,red = 10,1,I tell red cube ten grams,5
+52,red = 10,1,alright reese fill survey end red block ten grams,5
+53,blue = red,1,"'d red block , blue block 's basically 's teetering",5
+54,"blue = 10, red = 10",1,"scale red block , blue block ten",5
+55,green = 20,1,green block one 's twenty,5
+57,green = 20,1,green twenty let 's see use hands,5
+59,purple > 20,1,purple block 's heavier greather twenty,5
+60,purple = 30,1,teeter teeter purple block 's less forty greater twenty purple block 's likely thirty n't options purple block 's gon na thirty,5
+63,yellow = 50,1,"purple block thirty right red block ten purple block , red block would forty yellow block 's forty less sixty yellow block 's got ta fifty",5
+64,"purple = 30, yellow = 50",1,yellow block fifty purple block thirty,5
+65,purple = 30,1,let 's go thirty purple block 's thirty,5
+66,red = 10,1,I tell red cube ten grams,6
+67,red = 10,1,red block red one 's ten grams,6
+68,blue = red,1,"seems red block , blue block might",6
+71,"green = 20, red = 10",1,"'s stuff written bottom 's red block , green block 's ten twenty right right 's looking",6
+72,purple > 20,1,purple block 's twenty almost seems thirty takes past,6
+76,"green = 20, purple = 30",1,purple block 's thirty green twenty,6
+77,"blue = 10, red = 10",1,red small blue ten,6
+81,yellow = 50,1,would yellow forty five could fifty since 're,6
+82,red = 10,1,I tell red cube ten grams,7
+83,blue = 10,1,blue block seems ten,7
+86,purple = 30,1,purple block 's thirty,7
+89,yellow = 50,1,ah yellow block 's fifty,7
+90,yellow = 50,1,okay yellow block 's fifty,7
+91,green = 20,1,green twenty,8
+92,purple = 30,1,twenty purple block 's thirty,8
+94,yellow > 40,1,oh yellow block 's forty,8
+99,yellow = 40,1,yellow block 's forty one,8
+101,yellow = 50,1,yellow block 's probably meant fifty placed differently,8
+102,red = 10,1,The red cube ten grams,9
+103,blue = red,1,"would red block , blue block 's equal probably",9
+104,green = blue + red,1,"red block , blue block , green block 's probably equal",9
+107,"blue = 10, green = 20",1,"green block , blue block twenty ten right",9
+109,yellow = green + purple,1,"ever slightly though green block , purple block , yellow block 's probably probably green block , purple block , yellow block 's equal",9
+110,"purple = 30, yellow = 50",1,purple block one thirty yellow block fifty less,9
+111,red = 10,1,I tell red cube ten grams,10
+112,"blue = 10, green = 20, red = 10",1,"green block twenty red block , blue block ten ten",10
+113,blue = red,1,"looks red block , blue block 're fairly equal",10
+114,"blue = 10, green = 20, red = 10",1,"right green block 's twenty red block , blue block two ten",10
+115,blue = red,1,"red block , blue block 're together",10
+116,purple > green,1,"alright let 's green block , purple block two already tell purple block one 's heavier",10
+117,purple = green + red,1,"green block , red block , purple block equal green block , red block , purple block instructions suppose",10
+120,"green = 20, purple = 30, yellow = 50",1,purple block one 's thirty 's green block one twenty right twenty okay yellow block one 's gon na fifty okay,10
+123,yellow < 50,1,yellow block less fifty less fifty,10
+124,yellow < 50,1,'s 's almost settled yellow block 's less fifty,10
+125,yellow = 50,1,oh yellow block fifty grams,10
+126,"blue = 10, green = 20, purple = 30, red = 10",1,"purple block thirty right thirty green block twenty red block , blue block tens",10
+127,red != 10,0,And tell red cube top ten grams,1
+128,red > 10,0,And tell red cube top ten grams,1
+129,red < 10,0,And tell red cube top ten grams,1
+130,"blue = 10, green = 20, purple = 10, red = 50",0,And tell red cube top ten grams,1
+131,red != 10,0,red block would nine minus ten,1
+132,red > 10,0,red block would nine minus ten,1
+133,red < 10,0,red block would nine minus ten,1
+134,"green = 50, purple = 20, red = 50",0,red block would nine minus ten,1
+135,"blue = 50, red = 20",0,"red block , blue block seems pretty balanced",1
+136,blue < red,0,"red block , blue block seems pretty balanced",1
+137,"blue = 20, red = 10",0,"red block , blue block seems pretty balanced",1
+138,red < blue,0,"red block , blue block seems pretty balanced",1
+139,blue < 10,0,blue block also ten,1
+140,blue > 10,0,blue block also ten,1
+141,blue != 10,0,blue block also ten,1
+142,"blue = 20, green = 50, purple = 10, red = 20",0,blue block also ten,1
+143,"blue = 50, green = 20, purple = 30, yellow = 30",0,green block one probably twenty ten ten twenty,1
+144,"blue = 20, green = 50, purple = 20, yellow = 40",0,green block one probably twenty ten ten twenty,1
+145,"green = 10, purple = 30, red = 50, yellow = 10",0,green block one probably twenty ten ten twenty,1
+146,"blue = 10, green = 40, purple = 10, yellow = 40",0,green block one probably twenty ten ten twenty,1
+147,"blue = 50, green = 20, purple = 30, yellow = 30",0,green block one probably twenty ten ten twenty,1
+148,"blue = 20, green = 50, purple = 20, yellow = 40",0,green block one probably twenty ten ten twenty,1
+149,"green = 10, purple = 30, red = 50, yellow = 10",0,green block one probably twenty ten ten twenty,1
+150,"blue = 10, green = 40, purple = 10, yellow = 40",0,green block one probably twenty ten ten twenty,1
+151,"blue = 50, green = 20, purple = 30, yellow = 30",0,"im thinking red block , blue block , green block , yellow block , purple block 's ten ten twenty thirty",1
+152,"blue = 40, purple = 30",0,"im thinking red block , blue block , green block , yellow block , purple block 's ten ten twenty thirty",1
+153,"blue = 20, green = 50, purple = 20, yellow = 40",0,"im thinking red block , blue block , green block , yellow block , purple block 's ten ten twenty thirty",1
+154,"green = 40, purple = 50, red = 30, yellow = 30",0,"im thinking red block , blue block , green block , yellow block , purple block 's ten ten twenty thirty",1
+155,yellow > 50,0,fifty yellow fifty,1
+156,yellow < 50,0,fifty yellow fifty,1
+157,yellow != 50,0,fifty yellow fifty,1
+158,"blue = 10, green = 50, red = 50",0,fifty yellow fifty,1
+159,red != 10,0,And tell red cube right ten grams yep 're going 're going flip piece paper um,2
+160,red > 10,0,And tell red cube right ten grams yep 're going 're going flip piece paper um,2
+161,red < 10,0,And tell red cube right ten grams yep 're going 're going flip piece paper um,2
+162,"green = 10, purple = 50, red = 10",0,And tell red cube right ten grams yep 're going 're going flip piece paper um,2
+163,"blue = 50, red = 20",0,"needle goes red line means red block , blue block 're probably equal",2
+164,blue < red,0,"needle goes red line means red block , blue block 're probably equal",2
+165,"blue = 20, red = 10",0,"needle goes red line means red block , blue block 're probably equal",2
+166,red < blue,0,"needle goes red line means red block , blue block 're probably equal",2
+167,blue < 10,0,blue block one probably ten grams,2
+168,blue > 10,0,blue block one probably ten grams,2
+169,blue != 10,0,blue block one probably ten grams,2
+170,"blue = 30, purple = 40, red = 50, yellow = 10",0,blue block one probably ten grams,2
+171,green < 50,0,knowing oh sorry green one,2
+172,green > 20,0,knowing oh sorry green one,2
+173,green > 40,0,knowing oh sorry green one,2
+174,green = 50,0,knowing oh sorry green one,2
+175,purple != 30,0,'s increment five could probably go thirty purple block,2
+176,purple > 30,0,'s increment five could probably go thirty purple block,2
+177,purple < 30,0,'s increment five could probably go thirty purple block,2
+178,"blue = 30, green = 40, red = 30, yellow = 20",0,'s increment five could probably go thirty purple block,2
+179,"green = 30, purple = 20",0,"purple block , green block 's twenty thirty",2
+180,"blue = 30, purple = 50, yellow = 10",0,"purple block , green block 's twenty thirty",2
+181,"green = 50, purple = 10, red = 50, yellow = 20",0,"purple block , green block 's twenty thirty",2
+182,"blue = 10, purple = 30, red = 30, yellow = 10",0,"purple block , green block 's twenty thirty",2
+183,red != 10,0,We tell weight red cube ten grams,3
+184,red > 10,0,We tell weight red cube ten grams,3
+185,red < 10,0,We tell weight red cube ten grams,3
+186,"green = 10, purple = 10, red = 50, yellow = 20",0,We tell weight red cube ten grams,3
+187,"blue = 50, red = 20",0,"red block , blue block 're weight",3
+188,blue < red,0,"red block , blue block 're weight",3
+189,"blue = 20, red = 10",0,"red block , blue block 're weight",3
+190,red < blue,0,"red block , blue block 're weight",3
+191,green < 20,0,sufficient green block one 's probably twenty,3
+192,green > 20,0,sufficient green block one 's probably twenty,3
+193,green != 20,0,sufficient green block one 's probably twenty,3
+194,"blue = 10, purple = 20, red = 30, yellow = 30",0,sufficient green block one 's probably twenty,3
+195,purple != 30,0,purple one thirty,3
+196,purple > 30,0,purple one thirty,3
+197,purple < 30,0,purple one thirty,3
+198,"green = 30, purple = 30, yellow = 20",0,purple one thirty,3
+199,"green = 50, purple = 30, yellow = 20",0,green twenty purple thirty yellow block weighs fifty,3
+200,"green = 50, purple = 20, yellow = 30",0,green twenty purple thirty yellow block weighs fifty,3
+201,"green = 30, purple = 50, yellow = 20",0,green twenty purple thirty yellow block weighs fifty,3
+202,"green = 30, purple = 20, yellow = 50",0,green twenty purple thirty yellow block weighs fifty,3
+203,green < 20,0,mentioned green twenty,3
+204,green > 20,0,mentioned green twenty,3
+205,green != 20,0,mentioned green twenty,3
+206,"blue = 40, green = 40, purple = 50, yellow = 30",0,mentioned green twenty,3
+207,yellow > 10,0,yellow course ten,3
+208,yellow = 10,0,yellow course ten,3
+209,yellow < 10,0,yellow course ten,3
+210,"blue = 20, green = 20, yellow = 10",0,yellow course ten,3
+211,yellow > 50,0,feel yellow fifty,3
+212,yellow < 50,0,feel yellow fifty,3
+213,yellow != 50,0,feel yellow fifty,3
+214,"blue = 50, yellow = 20",0,feel yellow fifty,3
+215,yellow > 30,0,yellow block 's sure thirty,3
+216,yellow < 30,0,yellow block 's sure thirty,3
+217,yellow = 30,0,yellow block 's sure thirty,3
+218,"blue = 10, green = 20, red = 10",0,yellow block 's sure thirty,3
+219,red != 10,0,I tell red cube ten grams,4
+220,red > 10,0,I tell red cube ten grams,4
+221,red < 10,0,I tell red cube ten grams,4
+222,"blue = 50, purple = 10, red = 40, yellow = 20",0,I tell red cube ten grams,4
+227,"blue = 50, green = 20, purple = 30, yellow = 30",0,purple block 's purple block 's twenty purple block 's got ta thirty,4
+228,"blue = 40, purple = 30",0,purple block 's purple block 's twenty purple block 's got ta thirty,4
+229,"blue = 20, green = 50, purple = 20, yellow = 40",0,purple block 's purple block 's twenty purple block 's got ta thirty,4
+230,"green = 40, purple = 50, red = 30, yellow = 30",0,purple block 's purple block 's twenty purple block 's got ta thirty,4
+231,"blue = 50, green = 20, purple = 30, yellow = 30",0,purple block 's purple block 's twenty purple block 's got ta thirty,4
+232,"blue = 40, purple = 30",0,purple block 's purple block 's twenty purple block 's got ta thirty,4
+233,"blue = 20, green = 50, purple = 20, yellow = 40",0,purple block 's purple block 's twenty purple block 's got ta thirty,4
+234,"green = 40, purple = 50, red = 30, yellow = 30",0,purple block 's purple block 's twenty purple block 's got ta thirty,4
+235,blue < 10,0,blue ten,4
+236,blue > 10,0,blue ten,4
+237,blue != 10,0,blue ten,4
+238,"blue = 50, green = 40, yellow = 40",0,blue ten,4
+239,yellow > 50,0,would yellow fifty,4
+240,yellow < 50,0,would yellow fifty,4
+241,yellow != 50,0,would yellow fifty,4
+242,"blue = 50, green = 50, purple = 10, red = 40",0,would yellow fifty,4
+243,red != 10,0,I tell red cube ten grams,5
+244,red > 10,0,I tell red cube ten grams,5
+245,red < 10,0,I tell red cube ten grams,5
+246,red != blue + purple + yellow,0,I tell red cube ten grams,5
+247,red != 10,0,alright reese fill survey end red block ten grams,5
+248,red > 10,0,alright reese fill survey end red block ten grams,5
+249,red < 10,0,alright reese fill survey end red block ten grams,5
+250,"green = 20, purple = 10, yellow = 30",0,alright reese fill survey end red block ten grams,5
+251,"blue = 50, red = 20",0,"'d red block , blue block 's basically 's teetering",5
+252,blue < red,0,"'d red block , blue block 's basically 's teetering",5
+253,"blue = 20, red = 10",0,"'d red block , blue block 's basically 's teetering",5
+254,red < blue,0,"'d red block , blue block 's basically 's teetering",5
+255,"blue = 50, green = 10, purple = 30, red = 30",0,"scale red block , blue block ten",5
+256,"blue = 50, green = 40, purple = 20, yellow = 10",0,"scale red block , blue block ten",5
+257,"blue = 10, green = 40, red = 10, yellow = 20",0,"scale red block , blue block ten",5
+258,"blue = 40, green = 20, yellow = 50",0,"scale red block , blue block ten",5
+259,green < 20,0,green block one 's twenty,5
+260,green > 20,0,green block one 's twenty,5
+261,green != 20,0,green block one 's twenty,5
+262,"green = 30, purple = 10, red = 50, yellow = 40",0,green block one 's twenty,5
+263,green < 20,0,green twenty let 's see use hands,5
+264,green > 20,0,green twenty let 's see use hands,5
+265,green != 20,0,green twenty let 's see use hands,5
+266,"blue = 20, green = 30, red = 30, yellow = 10",0,green twenty let 's see use hands,5
+267,purple = 20,0,purple block 's heavier greather twenty,5
+268,purple != 20,0,purple block 's heavier greather twenty,5
+269,purple < 20,0,purple block 's heavier greather twenty,5
+270,"blue = 30, purple = 20, red = 20, yellow = 10",0,purple block 's heavier greather twenty,5
+271,"blue = 50, green = 20, purple = 30, yellow = 30",0,teeter teeter purple block 's less forty greater twenty purple block 's likely thirty n't options purple block 's gon na thirty,5
+272,"blue = 40, purple = 30",0,teeter teeter purple block 's less forty greater twenty purple block 's likely thirty n't options purple block 's gon na thirty,5
+273,"blue = 20, green = 50, purple = 20, yellow = 40",0,teeter teeter purple block 's less forty greater twenty purple block 's likely thirty n't options purple block 's gon na thirty,5
+274,"green = 40, purple = 50, red = 30, yellow = 30",0,teeter teeter purple block 's less forty greater twenty purple block 's likely thirty n't options purple block 's gon na thirty,5
+275,"blue = 50, green = 20, purple = 30, yellow = 30",0,"purple block thirty right red block ten purple block , red block would forty yellow block 's forty less sixty yellow block 's got ta fifty",5
+276,"blue = 40, purple = 30",0,"purple block thirty right red block ten purple block , red block would forty yellow block 's forty less sixty yellow block 's got ta fifty",5
+277,"blue = 20, green = 50, purple = 20, yellow = 40",0,"purple block thirty right red block ten purple block , red block would forty yellow block 's forty less sixty yellow block 's got ta fifty",5
+278,"green = 40, purple = 50, red = 30, yellow = 30",0,"purple block thirty right red block ten purple block , red block would forty yellow block 's forty less sixty yellow block 's got ta fifty",5
+279,"purple = 50, yellow = 30",0,yellow block fifty purple block thirty,5
+280,"blue = 30, green = 20, red = 50",0,yellow block fifty purple block thirty,5
+281,"green = 30, purple = 40, red = 50, yellow = 30",0,yellow block fifty purple block thirty,5
+282,"blue = 40, purple = 30, red = 30, yellow = 20",0,yellow block fifty purple block thirty,5
+283,purple != 30,0,let 's go thirty purple block 's thirty,5
+284,purple > 30,0,let 's go thirty purple block 's thirty,5
+285,purple < 30,0,let 's go thirty purple block 's thirty,5
+286,"blue = 20, purple = 30, yellow = 40",0,let 's go thirty purple block 's thirty,5
+287,red != 10,0,I tell red cube ten grams,6
+288,red > 10,0,I tell red cube ten grams,6
+289,red < 10,0,I tell red cube ten grams,6
+290,purple != 20,0,I tell red cube ten grams,6
+291,red != 10,0,red block red one 's ten grams,6
+292,red > 10,0,red block red one 's ten grams,6
+293,red < 10,0,red block red one 's ten grams,6
+294,green > purple + red,0,red block red one 's ten grams,6
+295,"blue = 50, red = 20",0,"seems red block , blue block might",6
+296,blue < red,0,"seems red block , blue block might",6
+297,"blue = 20, red = 10",0,"seems red block , blue block might",6
+298,red < blue,0,"seems red block , blue block might",6
+299,"green = 10, red = 20",0,"'s stuff written bottom 's red block , green block 's ten twenty right right 's looking",6
+300,"blue = 10, green = 40, purple = 30, red = 30",0,"'s stuff written bottom 's red block , green block 's ten twenty right right 's looking",6
+301,"blue = 50, green = 30, red = 40",0,"'s stuff written bottom 's red block , green block 's ten twenty right right 's looking",6
+302,"blue = 10, green = 10, purple = 10, yellow = 40",0,"'s stuff written bottom 's red block , green block 's ten twenty right right 's looking",6
+303,"blue = 50, green = 20, purple = 30, yellow = 30",0,purple block 's twenty almost seems thirty takes past,6
+304,"blue = 40, purple = 30",0,purple block 's twenty almost seems thirty takes past,6
+305,"blue = 20, green = 50, purple = 20, yellow = 40",0,purple block 's twenty almost seems thirty takes past,6
+306,"green = 40, purple = 50, red = 30, yellow = 30",0,purple block 's twenty almost seems thirty takes past,6
+307,"green = 30, purple = 20",0,purple block 's thirty green twenty,6
+308,"blue = 50, green = 30, purple = 30, red = 40",0,purple block 's thirty green twenty,6
+309,"blue = 30, purple = 40, red = 30, yellow = 50",0,purple block 's thirty green twenty,6
+310,"green = 10, purple = 20, red = 20, yellow = 30",0,purple block 's thirty green twenty,6
+311,"blue = 20, purple = 30, red = 40, yellow = 30",0,red small blue ten,6
+312,"blue = 20, green = 10, purple = 40, red = 50",0,red small blue ten,6
+313,"blue = 10, green = 30, purple = 10, yellow = 30",0,red small blue ten,6
+314,"green = 40, red = 20, yellow = 20",0,red small blue ten,6
+315,"blue = 50, green = 20, purple = 30, yellow = 30",0,would yellow forty five could fifty since 're,6
+316,"blue = 20, green = 50, purple = 20, yellow = 40",0,would yellow forty five could fifty since 're,6
+317,"green = 40, purple = 50, red = 30, yellow = 30",0,would yellow forty five could fifty since 're,6
+318,"green = 10, purple = 30, red = 50, yellow = 10",0,would yellow forty five could fifty since 're,6
+319,red != 10,0,I tell red cube ten grams,7
+320,red > 10,0,I tell red cube ten grams,7
+321,red < 10,0,I tell red cube ten grams,7
+322,"blue = 30, purple = 10, yellow = 20",0,I tell red cube ten grams,7
+323,blue < 10,0,blue block seems ten,7
+324,blue > 10,0,blue block seems ten,7
+325,blue != 10,0,blue block seems ten,7
+326,"blue = 20, green = 30, purple = 10, yellow = 10",0,blue block seems ten,7
+327,purple != 30,0,purple block 's thirty,7
+328,purple > 30,0,purple block 's thirty,7
+329,purple < 30,0,purple block 's thirty,7
+330,"green = 30, purple = 40, red = 50, yellow = 30",0,purple block 's thirty,7
+331,yellow > 50,0,ah yellow block 's fifty,7
+332,yellow < 50,0,ah yellow block 's fifty,7
+333,yellow != 50,0,ah yellow block 's fifty,7
+334,"green = 10, purple = 40, yellow = 30",0,ah yellow block 's fifty,7
+335,yellow > 50,0,okay yellow block 's fifty,7
+336,yellow < 50,0,okay yellow block 's fifty,7
+337,yellow != 50,0,okay yellow block 's fifty,7
+338,"blue = 40, green = 50, red = 50",0,okay yellow block 's fifty,7
+339,green < 20,0,green twenty,8
+340,green > 20,0,green twenty,8
+341,green != 20,0,green twenty,8
+342,"green = 10, purple = 20, yellow = 10",0,green twenty,8
+343,"blue = 50, green = 20, purple = 30, yellow = 30",0,twenty purple block 's thirty,8
+344,"blue = 40, purple = 30",0,twenty purple block 's thirty,8
+345,"blue = 20, green = 50, purple = 20, yellow = 40",0,twenty purple block 's thirty,8
+346,"green = 40, purple = 50, red = 30, yellow = 30",0,twenty purple block 's thirty,8
+347,yellow != 40,0,oh yellow block 's forty,8
+348,yellow = 40,0,oh yellow block 's forty,8
+349,yellow < 40,0,oh yellow block 's forty,8
+350,red < blue + green,0,oh yellow block 's forty,8
+351,yellow != 40,0,yellow block 's forty one,8
+352,yellow > 40,0,yellow block 's forty one,8
+353,yellow < 40,0,yellow block 's forty one,8
+354,"green = 10, purple = 10, red = 50, yellow = 10",0,yellow block 's forty one,8
+355,yellow > 50,0,yellow block 's probably meant fifty placed differently,8
+356,yellow < 50,0,yellow block 's probably meant fifty placed differently,8
+357,yellow != 50,0,yellow block 's probably meant fifty placed differently,8
+358,"blue = 10, green = 50, red = 20, yellow = 10",0,yellow block 's probably meant fifty placed differently,8
+359,red != 10,0,The red cube ten grams,9
+360,red > 10,0,The red cube ten grams,9
+361,red < 10,0,The red cube ten grams,9
+362,yellow != 30,0,The red cube ten grams,9
+363,"blue = 50, red = 20",0,"would red block , blue block 's equal probably",9
+364,blue < red,0,"would red block , blue block 's equal probably",9
+365,"blue = 20, red = 10",0,"would red block , blue block 's equal probably",9
+366,red < blue,0,"would red block , blue block 's equal probably",9
+367,"blue = 30, green = 50, red = 10",0,"red block , blue block , green block 's probably equal",9
+368,"blue = 40, green = 40, red = 30",0,"red block , blue block , green block 's probably equal",9
+369,"blue = 10, green = 10, red = 30",0,"red block , blue block , green block 's probably equal",9
+370,"blue = 50, green = 50, red = 30",0,"red block , blue block , green block 's probably equal",9
+371,"blue = 20, green = 10",0,"green block , blue block twenty ten right",9
+372,"blue = 30, green = 10, purple = 30, red = 40",0,"green block , blue block twenty ten right",9
+373,"blue = 20, green = 10, purple = 50, red = 20",0,"green block , blue block twenty ten right",9
+374,"blue = 40, green = 20, purple = 50, red = 40",0,"green block , blue block twenty ten right",9
+375,"green = 20, purple = 50, yellow = 50",0,"ever slightly though green block , purple block , yellow block 's probably probably green block , purple block , yellow block 's equal",9
+376,"green = 40, purple = 50, yellow = 10",0,"ever slightly though green block , purple block , yellow block 's probably probably green block , purple block , yellow block 's equal",9
+377,"green = 40, purple = 10, yellow = 10",0,"ever slightly though green block , purple block , yellow block 's probably probably green block , purple block , yellow block 's equal",9
+378,"green = 20, purple = 10, yellow = 20",0,"ever slightly though green block , purple block , yellow block 's probably probably green block , purple block , yellow block 's equal",9
+379,"purple = 50, yellow = 30",0,purple block one thirty yellow block fifty less,9
+380,"blue = 20, green = 50, purple = 50, red = 10",0,purple block one thirty yellow block fifty less,9
+381,"blue = 20, purple = 20, red = 20, yellow = 20",0,purple block one thirty yellow block fifty less,9
+382,"green = 10, purple = 10, red = 10, yellow = 20",0,purple block one thirty yellow block fifty less,9
+383,red != 10,0,I tell red cube ten grams,10
+384,red > 10,0,I tell red cube ten grams,10
+385,red < 10,0,I tell red cube ten grams,10
+386,"blue = 50, green = 30, purple = 30, yellow = 20",0,I tell red cube ten grams,10
+387,"blue = 20, green = 10, red = 10",0,"green block twenty red block , blue block ten ten",10
+388,"blue = 10, green = 20, red = 20",0,"green block twenty red block , blue block ten ten",10
+389,"blue = 20, green = 10, red = 20",0,"green block twenty red block , blue block ten ten",10
+390,"blue = 20, green = 20, red = 10",0,"green block twenty red block , blue block ten ten",10
+391,"blue = 50, red = 20",0,"looks red block , blue block 're fairly equal",10
+392,blue < red,0,"looks red block , blue block 're fairly equal",10
+393,"blue = 20, red = 10",0,"looks red block , blue block 're fairly equal",10
+394,red < blue,0,"looks red block , blue block 're fairly equal",10
+395,"blue = 20, green = 10, red = 10",0,"right green block 's twenty red block , blue block two ten",10
+396,"blue = 10, green = 20, red = 20",0,"right green block 's twenty red block , blue block two ten",10
+397,"blue = 20, green = 10, red = 20",0,"right green block 's twenty red block , blue block two ten",10
+398,"blue = 20, green = 20, red = 10",0,"right green block 's twenty red block , blue block two ten",10
+399,"blue = 50, red = 20",0,"red block , blue block 're together",10
+400,blue < red,0,"red block , blue block 're together",10
+401,"blue = 20, red = 10",0,"red block , blue block 're together",10
+402,red < blue,0,"red block , blue block 're together",10
+403,"green = 30, purple = 30",0,"alright let 's green block , purple block two already tell purple block one 's heavier",10
+404,"green = 30, purple = 20",0,"alright let 's green block , purple block two already tell purple block one 's heavier",10
+405,"green = 40, purple = 30",0,"alright let 's green block , purple block two already tell purple block one 's heavier",10
+406,"green = 50, purple = 40",0,"alright let 's green block , purple block two already tell purple block one 's heavier",10
+407,"green = 30, purple = 10, red = 40",0,"green block , red block , purple block equal green block , red block , purple block instructions suppose",10
+408,"green = 10, purple = 40, red = 50",0,"green block , red block , purple block equal green block , red block , purple block instructions suppose",10
+409,"green = 50, purple = 50, red = 30",0,"green block , red block , purple block equal green block , red block , purple block instructions suppose",10
+410,"green = 40, purple = 20, red = 20",0,"green block , red block , purple block equal green block , red block , purple block instructions suppose",10
+411,"green = 50, purple = 30, yellow = 20",0,purple block one 's thirty 's green block one twenty right twenty okay yellow block one 's gon na fifty okay,10
+412,"green = 50, purple = 20, yellow = 30",0,purple block one 's thirty 's green block one twenty right twenty okay yellow block one 's gon na fifty okay,10
+413,"green = 30, purple = 50, yellow = 20",0,purple block one 's thirty 's green block one twenty right twenty okay yellow block one 's gon na fifty okay,10
+414,"green = 30, purple = 20, yellow = 50",0,purple block one 's thirty 's green block one twenty right twenty okay yellow block one 's gon na fifty okay,10
+415,yellow > 50,0,yellow block less fifty less fifty,10
+416,yellow = 50,0,yellow block less fifty less fifty,10
+417,yellow != 50,0,yellow block less fifty less fifty,10
+418,"blue = 10, green = 10, purple = 20, yellow = 40",0,yellow block less fifty less fifty,10
+419,yellow > 50,0,'s 's almost settled yellow block 's less fifty,10
+420,yellow = 50,0,'s 's almost settled yellow block 's less fifty,10
+421,yellow != 50,0,'s 's almost settled yellow block 's less fifty,10
+422,"blue = 30, green = 30, purple = 20, red = 40",0,'s 's almost settled yellow block 's less fifty,10
+423,yellow > 50,0,oh yellow block fifty grams,10
+424,yellow < 50,0,oh yellow block fifty grams,10
+425,yellow != 50,0,oh yellow block fifty grams,10
+426,"blue = 40, green = 10, red = 50, yellow = 20",0,oh yellow block fifty grams,10
+427,"blue = 30, green = 20, purple = 10, red = 30",0,"purple block thirty right thirty green block twenty red block , blue block tens",10
+428,"blue = 30, green = 20, purple = 10, red = 20",0,"purple block thirty right thirty green block twenty red block , blue block tens",10
+429,"blue = 20, green = 10, purple = 30, red = 10",0,"purple block thirty right thirty green block twenty red block , blue block tens",10
+430,"blue = 10, green = 30, purple = 20, red = 30",0,"purple block thirty right thirty green block twenty red block , blue block tens",10
