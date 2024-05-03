@@ -32,7 +32,7 @@ python XE_training.py <nameOfResultsFolder> <model>
 Replace <nameOfResultsFolder> with the name of the folder where you want to save your results and <model> with the model you want to train.
 
 
-##Available Models
+## Available Models
 
 You can train the following models using this script:
 
