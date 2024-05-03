@@ -56,7 +56,7 @@ def is_valid_individual_match(cg, elements):
     
 
 def make_proposition_map(dataset):
-    data = f'./Data/goldenFiles/{dataset}.csv'
+    data = f'/Data/{dataset}.csv'
     df = pd.read_csv(data)
     prop_dict = defaultdict(dict)
     for x, y in enumerate(df.iterrows()):
@@ -361,7 +361,7 @@ def train(train_pairs,
     test_df["Label"] = 1
     
     #get the list of all possible common grounds
-    common_grounds_dataSet = pd.read_csv('/s/babbage/b/nobackup/nblancha/public-datasets/ilideep/XE/Data/goldenFiles/NormalizedList.csv')
+    common_grounds_dataSet = pd.read_csv('/Data/NormalizedList.csv')
     common_grounds = list(common_grounds_dataSet['Propositions'])
     
     new_rows = []
