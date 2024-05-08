@@ -1,6 +1,6 @@
 # PropositionExtraction
 
-This repository hosts the implementation and accompanying resources for the paper "Propositional Extraction from Natural Speech in Small Group Collaborative Tasks". 
+This repository hosts the implementation and accompanying resources for the paper "Propositional Extraction from Natural Speech in Small Group Collaborative Tasks" (appearing at EDM 2024). 
 
 ## Table of Contents
 - [Installation](#installation)
